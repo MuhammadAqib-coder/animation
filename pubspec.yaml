@@ -34,7 +34,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
+  flutter_bloc: ^8.1.2
   flutter_screenutil: ^5.6.1
+  geocoding: ^2.0.5
+  geolocator: ^9.0.2
   lottie: ^2.2.0
 
 dev_dependencies:
